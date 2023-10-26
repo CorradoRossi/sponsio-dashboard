@@ -1,5 +1,3 @@
-"use client";
-
 import Channelbar from './components/ChannelBar';
 import ContentContainer from './components/ContentContainer';
 import SideBar from './components/SideBar';
